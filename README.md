@@ -59,4 +59,4 @@ For future development, I plan on working practcing more basic HTML and CSS whil
 
 ## Acknowledgments
 
-I would like to thank <a href="https://srikargunnam.com/">Srikar Gunnam as I found inspirations for the solution in building this project.</a>
+I would like to thank <a href="https://srikargunnam.com/">Srikar Gunnam </a>as I found inspirations for the solution in building this project.
