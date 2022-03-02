@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://https://github.com/sclauguico/nft-preview-card)
-- Live Site URL: [Add live site URL here](https://sclauguico.github.io/nft-preview-card/)
+- Solution URL: [NFT Preview Card Solution](https://https://github.com/sclauguico/nft-preview-card)
+- Live Site URL: [Live Project Page](https://sclauguico.github.io/nft-preview-card/)
 
 ## My process
 1. Design was carefully analyzed
@@ -54,8 +54,8 @@ For future development, I plan on working practcing more basic HTML and CSS whil
 
 ## Author
 
-- Frontend Mentor - [https://www.frontendmentor.io/profile/sclauguico)
-- Twitter - [https://twitter.com/sandy_lauguico)
+- Frontend Mentor - https://www.frontendmentor.io/profile/sclauguico
+- Twitter - https://twitter.com/sandy_lauguico
 
 ## Acknowledgments
 
